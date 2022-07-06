@@ -47,8 +47,5 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/deutschkihun"
-  }
+  "types": "dist/index.d.ts"
 }
