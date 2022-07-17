@@ -1,7 +1,7 @@
 {
-  "name": "@deutschkihun/custom-react-component-lib",
+  "name": "@deutschkihun/rcl",
   "version": "0.0.2",
-  "description": "custom react component lib",
+  "description": "rcl (react component library) designed by @deutschkihun",
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
