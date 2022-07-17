@@ -2,7 +2,7 @@
 
 custom react component library designed by deutschkihun. 
 
-package url: https://www.npmjs.com/package/@deutschkihun/custom-react-component-lib
+package url: https://www.npmjs.com/package/@deutschkihun/rcl
 
 
 ## How to use this library 

@@ -1,6 +1,6 @@
 {
   "name": "@deutschkihun/rcl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "rcl (react component library) designed by @deutschkihun",
   "scripts": {
     "rollup": "rollup -c",
